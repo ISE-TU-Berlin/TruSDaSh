@@ -3,20 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: Home
+title: 1st Trustworthy Scalable Data Sharing Workshop (TruSDaSh)
 layout: home
 ---
 
-Hi there! Here's the lazy grad student's template for workshop webpages. I put this together to help automate mundane tasks with conventional workshop webpages - curating lists of speakers and/or organizers, schedules, and submitted/accepted papers. Here's a completely unrelated picture adapted from "Machine Learning & Artificial Intelligence" by `mikemacmarketing`; licensed under CC BY 2.0:
+Wellcome to the first Trustworthy Scalable Data Sharing Workshop (TruSDaSh), co-located with the 19th Research Challenges in Information Science (RCIS) conference in Seville, Spain, 20 - 23 May, 2025.
 
-![](assets/img/banner.jpg)
+Continuous and incessant data production has transformed data ownership into an increasingly important asset for companies. However, the value assigned to data sets is a direct consequence of how the data can be used and shared between data owners and stakeholders. Given the increasing demand for data, this requires sophisticated mechanisms for discovering suitable data sets, as well as for transforming and consuming data in highly distributed architectures.
 
-The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
-1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
-2. **Organizers**: Curate an organizer list from a set of markdown files, one per organizer. See files in the `_organizers` directory for examples.
-3. **Schedule**: Curate a [schedule like this](schedule) from a set of markdown files, one per event (talk, panel, break, etc.). See files in the `_schedule` directory for examples. Schedule items are sorted by a `sequence_id` attribute.
-4. **Papers**: Curate a [list of papers like this](papers) from a bunch of markdown files, one per paper. See files in the `_papers` directory for examples. Papers are sorted by a `sequence_id` attribute if specifed (else they are listed alphabetically).
+To that extent, there exists an urging gap for automation frameworks that simplify data exchange between providers and consumers, namely for: (i) publishing data sets, (ii) generation of data usage agreements or contracts between parties, (iii) safe and contractual data exchange, and (iv) monitoring both during the exchange and during the consumer's use of the data obtained.
 
-> **NOTE:** The best way to use these is to turn feature on or off by editing the `collections` attribute in `_config.yml`.
-
-If you experience issues or have cool features to add, feel free to [fork this template]().
+The purpose of the workshop is to bring together researchers and practitioners in the field of data architecture and data management with the aim of sharing ideas, perspectives and new solutions for scalable data sharing.
