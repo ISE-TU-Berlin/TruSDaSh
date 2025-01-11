@@ -26,7 +26,9 @@ The list of topics that the workshop will mainly address includes, but is not li
 
 ## Submission Instructions
 
-TODO: Add submission instructions
+
+[//]: # (TODO: Add submission instructions)
+Coming soon...
 
 ## Important Dates
 
@@ -40,4 +42,6 @@ TODO: Add submission instructions
 
 
 ## PC Members
-TODO: 
+
+[//]: # (TODO: Add PC members)
+Coming soon...
