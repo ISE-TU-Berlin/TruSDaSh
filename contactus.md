@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: organizers
 title: Contact Us
 permalink: /contactus/
 ---
-
-Here's how you can contact us ...
