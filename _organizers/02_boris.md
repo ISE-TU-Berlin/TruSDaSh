@@ -11,5 +11,5 @@ affil: TU Wien
 affil_link: https://dsg.tuwien.ac.at/team/bsedlak/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: https://dsg.tuwien.ac.at/team/bsedlak/profile.jpg
+img: boris.jpg
 ---

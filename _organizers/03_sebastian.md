@@ -11,7 +11,7 @@ affil: Universtät Hamburg
 affil_link: https://www.inf.uni-hamburg.de/en/inst/ab/swk/team/werner.html
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: https://www.inf.uni-hamburg.de/38952001/werner-300-6a64e368ff7bf743b1a9994be84920854bc65b50.jpg
+img: sebastian.jpg
 
 # Secondary affiliation
 affil2: TU Berlin

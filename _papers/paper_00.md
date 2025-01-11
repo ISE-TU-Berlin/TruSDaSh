@@ -1,6 +1,6 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 0
+sequence_id: Null
 
 # Paper title
 title: gradSLAM - Automagically differentiable SLAM
