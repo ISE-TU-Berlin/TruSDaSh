@@ -4,10 +4,10 @@
 
 permalink: /
 title: 1st Trustworthy Scalable Data Sharing Workshop (TruSDaSh)
-layout: home
+layout: home_new
 ---
 
-Wellcome to the first Trustworthy Scalable Data Sharing Workshop (TruSDaSh), co-located with the 19th Research Challenges in Information Science (RCIS) conference in Seville, Spain, 20 - 23 May, 2025.
+Welcome to the first Trustworthy Scalable Data Sharing Workshop (TruSDaSh), co-located with the 19th Research Challenges in Information Science (RCIS) conference in Seville, Spain, 20 - 23 May, 2025.
 
 Continuous and incessant data production has transformed data ownership into an increasingly important asset for companies. However, the value assigned to data sets is a direct consequence of how the data can be used and shared between data owners and stakeholders. Given the increasing demand for data, this requires sophisticated mechanisms for discovering suitable data sets, as well as for transforming and consuming data in highly distributed architectures.
 
