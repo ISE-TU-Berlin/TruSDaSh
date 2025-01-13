@@ -28,7 +28,8 @@ The list of topics that the workshop will mainly address includes, but is not li
 
 
 [//]: # (TODO: Add submission instructions)
-Coming soon...
+Papers shall be formatted using the 1-column CEUR-ART style (http://ceur-ws.org/HOWTOSUBMIT.html) and submitted through EasyChair (the link will be available soon).
+Accepted papers will be published in CEUR proceedings. 
 
 ## Important Dates
 
