@@ -28,8 +28,14 @@ The list of topics that the workshop will mainly address includes, but is not li
 
 
 [//]: # (TODO: Add submission instructions)
-Papers shall be formatted using the 1-column CEUR-ART style (http://ceur-ws.org/HOWTOSUBMIT.html) and submitted through EasyChair (the link will be available soon).
-Accepted papers will be published in CEUR proceedings. 
+Papers shall be formatted using the 1-column [CEUR-ART style](http://ceur-ws.org/HOWTOSUBMIT.html), also available on [Overleaf](https://www.overleaf.com/latex/templates/one-column-layout-template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/kwvphtkwrgsk).
+Papers are to be submitted through EasyChair (the link will be available soon).
+Accepted papers will be published in the CEUR proceedings. We generally solicit two types of research papers: 
+
+* **Full Papers** (10 to 15 pages) provide complete solutions for any of the aforementioned research challenge. Full papers should include technical solutions and empirical evaluations, describing novel concepts and their implementations to common research problems.
+* **Short Papers** (6 to 9 pages) describe innovative ideas of ongoing research or high-level concepts which have not yet been fully implemented and evaluated. We encourage authors to submit novel ideas which they would like to present and discuss within the workshop consortium.
+
+Page counts include references and are not to be exceeded. 
 
 ## Important Dates
 
@@ -45,4 +51,6 @@ Accepted papers will be published in CEUR proceedings.
 ## PC Members
 
 [//]: # (TODO: Add PC members)
-Coming soon...
+
+* Víctor Casamayor Pujol (UPF - DISL)
+* Praveen Kumar Donta (University of Stockholm)
