@@ -32,7 +32,7 @@ Papers shall be formatted using the 1-column [CEUR-ART style](http://ceur-ws.org
 Papers are to be submitted through EasyChair (the link will be available soon).
 Accepted papers will be published in the CEUR proceedings. We generally solicit two types of research papers: 
 
-* **Full Papers** (10 to 15 pages) provide complete solutions for any of the aforementioned research challenge. Full papers should include technical solutions and their empirical evaluations, describing novel concepts for addressing common research problems.
+* **Full Papers** (10 to 15 pages) provide complete solutions for any of the aforementioned research challenges. Full papers should include technical solutions and their empirical evaluations, describing novel concepts for addressing commonly encountered research problems.
 * **Short Papers** (6 to 9 pages) describe innovative ideas of ongoing research or high-level concepts which have not yet been fully implemented and evaluated. We encourage authors to submit novel ideas which they would like to present and discuss within the workshop consortium.
 
 Page counts include references and are not to be exceeded. 
@@ -42,7 +42,7 @@ Page counts include references and are not to be exceeded.
 | Workshop paper submission:              | March 21, 2025 |
 |-----------------------------------------| --- |
 | Workshop paper acceptance notification: | April 18, 2025 |
-| Workshop paper camera-ready copy:       | April 25, 2025 |
+| Workshop paper camera-ready submission: | April 25, 2025 |
 | Workshop paper author registration:     | April 25, 2025 |
 | Workshop celebration:                   | May 20, 2025 | 
 
@@ -54,3 +54,9 @@ Page counts include references and are not to be exceeded.
 
 * Víctor Casamayor Pujol (UPF - DISL)
 * Praveen Kumar Donta (University of Stockholm)
+* ...
+
+[//]: # (* Ilir Murturi &#40;TU Wien&#41;)
+
+
+Still under construction!
