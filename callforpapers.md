@@ -54,9 +54,7 @@ Page counts include references and are not to be exceeded.
 
 * Víctor Casamayor Pujol (UPF - DISL)
 * Praveen Kumar Donta (University of Stockholm)
-* ...
-
-[//]: # (* Ilir Murturi &#40;TU Wien&#41;)
+* Ilir Murturi (TU Wien)
 
 
 Still under construction!
