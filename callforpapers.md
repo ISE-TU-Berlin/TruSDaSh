@@ -52,8 +52,8 @@ Page counts include references and are not to be exceeded.
 
 [//]: # (TODO: Add PC members)
 
-* Víctor Casamayor Pujol (UPF - DISL)
 * Praveen Kumar Donta (University of Stockholm)
+* Víctor Casamayor Pujol (UPF - DISL)
 * Ilir Murturi (TU Wien)
 
 
