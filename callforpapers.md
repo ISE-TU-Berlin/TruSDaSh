@@ -30,7 +30,7 @@ The list of topics that the workshop will mainly address includes, but is not li
 [//]: # (TODO: Add submission instructions)
 Papers shall be formatted using the 1-column [CEUR-ART style](http://ceur-ws.org/HOWTOSUBMIT.html), also available on [Overleaf](https://www.overleaf.com/latex/templates/one-column-layout-template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/kwvphtkwrgsk).
 Papers are to be submitted through [EasyChair](https://easychair.org/conferences/?conf=rcis2025), using the track _"Scalable Trustworthy Data sharing"_.
-Accepted papers will be published in the CEUR proceedings. We generally solicit two types of research papers: 
+Accepted papers will be published in the CEUR proceedings. We solicit two types of research papers: 
 
 * **Full Papers** (10 to 15 pages) provide complete solutions for any of the aforementioned research challenges. Full papers should include technical solutions and their empirical evaluations, describing novel concepts for addressing commonly encountered research problems.
 * **Short Papers** (6 to 9 pages) describe innovative ideas of ongoing research or high-level concepts which have not yet been fully implemented and evaluated. We encourage authors to submit novel ideas which they would like to present and discuss within the workshop consortium.
