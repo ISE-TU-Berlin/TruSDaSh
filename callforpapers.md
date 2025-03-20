@@ -39,12 +39,12 @@ Page counts include references and are not to be exceeded.
 
 ## Important Dates
 
-| Workshop paper submission:              | March 21, 2025 |
-|-----------------------------------------| --- |
-| Workshop paper acceptance notification: | April 18, 2025 |
-| Workshop paper camera-ready submission: | April 25, 2025 |
-| Workshop paper author registration:     | April 25, 2025 |
-| Workshop celebration:                   | May 20, 2025 | 
+| Workshop paper submission:              | March 21, 2025 (AoE) |
+|-----------------------------------------|----------------------|
+| Workshop paper acceptance notification: | April 18, 2025       |
+| Workshop paper camera-ready submission: | April 25, 2025       |
+| Workshop paper author registration:     | April 25, 2025       |
+| Workshop celebration:                   | May 20, 2025         | 
 
 
 
